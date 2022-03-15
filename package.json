@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "a-react-crash-course-tm-git",
+=======
+  "name": "a-react-esst-training-git",
+>>>>>>> ed684d9 (Initialize project using Create React App)
   "version": "0.1.0",
   "private": true,
   "dependencies": {
